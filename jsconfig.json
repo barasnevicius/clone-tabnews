@@ -1,0 +1,6 @@
+// Resolver todos os imports da aplicação, partindo sempre da raiz do projeto
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
